@@ -317,7 +317,7 @@ align-items: center;
 .about-imgMain {
   width: 220px;
   height: 220px;
-  object-fit: scale-down;
+  object-fit: contain;
   border-radius: 50%;
   border: .2rem solid var(--main-color);
 }
